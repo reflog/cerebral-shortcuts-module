@@ -1,6 +1,6 @@
 {
   "name": "cerebral-shortcuts-module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cerebral 2 module to fire signals bound to keyboard shortcuts.",
   "main": "lib/shortcuts.cjs.js",
   "module": "lib/shortcuts.js",
